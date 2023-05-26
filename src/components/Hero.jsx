@@ -19,9 +19,10 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915EFF]">Thomas</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Transforming the future of decentralized technology with my
-            expertise and innovation. <br className="sm:block hidden" /> Hire me
-            today to take your blockchain development to the next level!
+            I'm a blockchain developer specializing in creating cutting-edge
+            solutions for decentralized technology.{" "}
+            <br className="sm:block hidden" /> Explore my work and witness the
+            transformative power of blockchain in action.
           </p>
         </div>
       </div>
