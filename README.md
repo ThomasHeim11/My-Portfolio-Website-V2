@@ -14,6 +14,12 @@ You'll also learn how to:
 - Implement sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
+## Installation
+
+1. Clone this repository: git clone
+2. Navigate to the project directory: cd
+3. Install the dependencies: npm install
+
 
 
 
