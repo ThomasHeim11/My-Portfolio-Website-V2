@@ -14,6 +14,7 @@ import {
   solidity,
   hardhat,
   chatgtp,
+  chain
 } from "../assets";
 
 export const navLinks = [
@@ -142,6 +143,31 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/ThomasHeim11/CrowdBlock",
+  },
+  {
+    name: "ChainSalary (Chainlink Spring Hackathon 2023) ",
+    description:
+      "ChainSalery is a employee salary payment automation application built using Chainlink Keepers. It leverages Chainlink's smart contract automation capabilities to automate salary payments in ETH to desired employees on a biweekly basis.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "hardhat",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: chain,
+    source_code_link: "https://github.com/ThomasHeim11/ChainSalary",
   },
 ];
 

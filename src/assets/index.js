@@ -23,12 +23,12 @@ import threejs from "./tech/threejs.svg";
 import solidity from "./tech/solidity.png";
 import hardhat from "./tech/hardhat.png";
 import chatgtp from "./tech/chatgtp.png";
+import chain from "./chain.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -66,5 +66,5 @@ export {
   solidity,
   hardhat,
   chatgtp,
- 
+  chain,
 };
