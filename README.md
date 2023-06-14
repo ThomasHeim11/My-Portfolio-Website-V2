@@ -21,6 +21,7 @@ You'll also learn how to:
 2. Navigate to the project directory: cd
 3. Install the dependencies: npm install
 
+[![Thomas HeimLinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-heim11/)
 
 
 
