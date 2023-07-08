@@ -171,9 +171,9 @@ const projects = [
   },
 
   {
-    name: "ChainSalary (Chainlink Spring Hackathon 2023) ",
+    name: "StableCryptoDollar  ",
     description:
-      "StableCrypto Dollar (SCD) is a decentralized, algorithmic stablecoin designed to maintain stability relative to the United States Dollar (USD). The contract, owned by DSCEngine, operates as an ERC20 token and enables users to mint and burn tokens through interaction with the DSCEngine smart contract.",
+      "StableCryptoDollar (SCD) is a decentralized, algorithmic stablecoin designed to maintain stability relative to the United States Dollar (USD). The contract, owned by DSCEngine, operates as an ERC20 token and enables users to mint and burn tokens through interaction with the DSCEngine smart contract.",
     tags: [
       {
         name: "solidity",
@@ -187,10 +187,10 @@ const projects = [
         name: "OpenZeppelin",
         color: "green-text-gradient",
       },
-      {
-        name: "react",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "react",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: chain,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",
