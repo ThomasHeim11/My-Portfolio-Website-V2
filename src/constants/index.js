@@ -15,6 +15,7 @@ import {
   hardhat,
   chatgtp,
   chain,
+  tes,
 } from "../assets";
 
 export const navLinks = [
@@ -192,7 +193,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: chain,
+    image: tes,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",
   },
 ];
