@@ -17,7 +17,8 @@ import {
   chain,
   tes,
   tickettoken,
-  leonardo 
+  leonardo,
+  uio,
 } from "../assets";
 
 export const navLinks = [
@@ -106,6 +107,20 @@ const experiences = [
       "Contributed to open-source blockchain projects, gaining experience with collaborative software development and community-driven projects.",
     ],
   },
+
+  {
+    title: " Bachelor's degree, Computer Science",
+    company_name: "University of Oslo (UiO)",
+    icon: uio,
+    iconBg: "#383E56",
+    date: "August 2023 - juli 2026",
+    points: [
+      "Comprehensive study of computer functionality, communication, and problem-solving applications. Focus on understanding the structure, development, and use of computers in large data systems, creating reliable, flexible, user-friendly, and efficient solutions, and exploring the role of computer technology in businesses and society.",
+      "Practical and theoretical learning with an early start in programming. Opportunity to work on significant projects and gain teamwork experience with programmers and administrators of large data systems. U",
+
+      "Foundational courses in programming, data communication, computer technology, and systems.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -116,7 +131,7 @@ const testimonials = [
     designation: "Blockchain Developer ",
     company: "Keywise Arg",
     name: "Leandro Sanchez on Linkdin",
-    image: leonardo 
+    image: leonardo,
   },
 ];
 
