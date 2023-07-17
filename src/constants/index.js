@@ -128,10 +128,10 @@ const testimonials = [
   {
     testimonial:
       "Congratulations! I've read the code, and it's very clear and well-structured, adhering to good practices. I'm particularly impressed with how the addresses are managed within the s_collateralTokens array and how they are integrated with the Chainlink priceFeed. This is excellent work! Recently, I've built a stablecoin from scratch using overcollateralization with WETH and WBTC. However, I didn't handle the health factor and precision feed as efficiently and safely as your code does. I'm planning to use and test your approach. Best of luck! ",
-    // name: "Leandro Sanchez on Likdin",
+    // name: "Leandro Sanchez on Likedin",
     designation: "Blockchain Developer ",
     company: "Keywise Arg",
-    name: "Leandro Sanchez on Linkdin",
+    name: "Leandro Sanchez on Linkedin",
     image: leonardo,
   },
 ];
@@ -161,6 +161,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/ThomasHeim11/CrowdBlock",
+    source_code_link: "https://crowdblock.surge.sh/",
   },
   {
     name: "ChainSalary (Chainlink Spring Hackathon 2023) ",
@@ -186,6 +187,7 @@ const projects = [
     ],
     image: chain,
     source_code_link: "https://github.com/ThomasHeim11/ChainSalary",
+    source_code_link: "https://chainsalary.surge.sh/",
   },
 
   {
@@ -212,6 +214,8 @@ const projects = [
     ],
     image: tes,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",
+    source_code_link:
+      "https://sepolia.etherscan.io/address/0xba1fea17c9781ea519424dc68ef843ba996076a2#code",
   },
 
   {
@@ -238,6 +242,7 @@ const projects = [
     ],
     image: tickettoken,
     source_code_link: "https://github.com/ThomasHeim11/TicketToken",
+    source_code_link: "https://tickettoken.netlify.app/",
   },
 ];
 
