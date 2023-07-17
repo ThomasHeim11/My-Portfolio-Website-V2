@@ -34,7 +34,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import tickettoken from "./tickettoken.png"
+import tickettoken from "./tickettoken.png";
+import leonardo from "./leonardo .png";
 
 export {
   logo,
@@ -70,5 +71,6 @@ export {
   chatgtp,
   chain,
   tes,
-  tickettoken
+  tickettoken,
+  leonardo,
 };
