@@ -16,6 +16,7 @@ import {
   chatgtp,
   chain,
   tes,
+  tickettoken,
 } from "../assets";
 
 export const navLinks = [
@@ -195,6 +196,32 @@ const projects = [
     ],
     image: tes,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",
+  },
+
+  {
+    name: "TicketToken",
+    description:
+      "This is a decentralized ticket marketplace smart contract for managing NFT (Non-Fungible Token) tickets using the ERC721 standard. The smart contract allows the creation of occasions (events) with specific details such as the name, cost of each ticket, maximum tickets available, date, time, and location. Users can then buy tickets for these occasions, and each ticket is represented as a unique NFT.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "hardhat",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "OpenZeppelin",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tickettoken,
+    source_code_link: "https://github.com/ThomasHeim11/TicketToken",
   },
 ];
 
