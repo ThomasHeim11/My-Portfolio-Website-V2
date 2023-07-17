@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As a blockchain developer, I specialize in creating secure and efficient
-        smart contracts with Solidity, while leveraging my expertise in React
-        and JavaScript to build intuitive front-end interfaces that enhance the
-        user experience. I'm a quick learner and I focus on creating efficient,
-        scalable, and user-friendly solutions that solve real-world problems.
+        I'm a blockchain developer specializing in Solidity development for
+        blockchain applications. I focus on secure smart contracts and intuitive
+        front-end interfaces. I prioritize testing, security, and staying
+        updated with the latest advancements in blockchain technology to
+        contribute to secure and transparent solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
