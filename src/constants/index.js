@@ -19,6 +19,7 @@ import {
   tickettoken,
   leonardo,
   uio,
+  web3,
 } from "../assets";
 
 export const navLinks = [
