@@ -242,7 +242,7 @@ const projects = [
     ],
     image: tickettoken,
     source_code_link: "https://github.com/ThomasHeim11/TicketToken",
-    source_code_link: "https://tickettoken.netlify.app/",
+    source_code_link: "https://ticketoken.netlify.app/",
   },
 ];
 
