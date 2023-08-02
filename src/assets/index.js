@@ -38,6 +38,7 @@ import tripguide from "./tripguide.png";
 import tickettoken from "./tickettoken.png";
 import leonardo from "./leonardo .png";
 import web3 from "./web3.avif";
+import ai from "./ai-nft.png"
 
 export {
   logo,
@@ -77,4 +78,5 @@ export {
   leonardo,
   uio,
   web3,
+  ai
 };

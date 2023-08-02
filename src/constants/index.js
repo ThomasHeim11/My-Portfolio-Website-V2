@@ -20,6 +20,7 @@ import {
   leonardo,
   uio,
   web3,
+  ai
 } from "../assets";
 
 export const navLinks = [
@@ -243,6 +244,33 @@ const projects = [
     image: tickettoken,
     source_code_link: "https://github.com/ThomasHeim11/TicketToken",
     source_code_link: "https://ticketoken.netlify.app/",
+  },
+
+  {
+    name: "GeniusMintAI ",
+    description:
+      "GeniusMintAI is a dAPP that allows users to mint NFTs by providing a description that Stable Diffusion v2 converts into an image. The NFTs are minted on the Sepolia testnetand stored on IPFS using NFT.Storage.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "hardhat",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "OpenZeppelin",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ai,
+    source_code_link: "https://github.com/ThomasHeim11/GeniusMintAI",
+    source_code_link: "https://geniusmintai.surge.sh/",
   },
 ];
 
