@@ -20,7 +20,7 @@ import {
   leonardo,
   uio,
   web3,
-  ai
+  ai,
 } from "../assets";
 
 export const navLinks = [
@@ -162,7 +162,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/ThomasHeim11/CrowdBlock",
-    source_code_link: "https://crowdblock.surge.sh/",
+    demo_link: "https://crowdblock.surge.sh/",
   },
   {
     name: "ChainSalary (Chainlink Spring Hackathon 2023) ",
@@ -188,7 +188,7 @@ const projects = [
     ],
     image: chain,
     source_code_link: "https://github.com/ThomasHeim11/ChainSalary",
-    source_code_link: "https://chainsalary.surge.sh/",
+    demo_link: "https://chainsalary.surge.sh/",
   },
 
   {
@@ -215,7 +215,7 @@ const projects = [
     ],
     image: tes,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",
-    source_code_link:
+    demo_link:
       "https://sepolia.etherscan.io/address/0xba1fea17c9781ea519424dc68ef843ba996076a2#code",
   },
 
@@ -243,7 +243,7 @@ const projects = [
     ],
     image: tickettoken,
     source_code_link: "https://github.com/ThomasHeim11/TicketToken",
-    source_code_link: "https://ticketoken.netlify.app/",
+    demo_link: "https://ticketoken.netlify.app/",
   },
 
   {
@@ -260,7 +260,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
       {
-        name: "OpenZeppelin",
+        name: "Stable Diffusion 2.0",
         color: "green-text-gradient",
       },
       {
@@ -270,7 +270,7 @@ const projects = [
     ],
     image: ai,
     source_code_link: "https://github.com/ThomasHeim11/GeniusMintAI",
-    source_code_link: "https://geniusmintai.surge.sh/",
+    demo_link: "https://geniusmintai.surge.sh/",
   },
 ];
 
