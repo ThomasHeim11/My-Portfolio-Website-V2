@@ -21,6 +21,7 @@ import {
   uio,
   web3,
   ai,
+  dat
 } from "../assets";
 
 export const navLinks = [
@@ -271,6 +272,33 @@ const projects = [
     image: ai,
     source_code_link: "https://github.com/ThomasHeim11/GeniusMintAI",
     demo_link: "https://geniusmintai.surge.sh/",
+  },
+
+  {
+    name: "BlockShop ",
+    description:
+      "The smart contract is implemented in Solidity and facilitates the management of items for sale, while the React frontend interacts with the smart contract to display items and allow users to make purchases using Ether.",
+    tags: [
+      {
+        name: "solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "hardhat",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: dat,
+    source_code_link: "https://github.com/ThomasHeim11/BlockShop",
+    demo_link: "https://blockshop.surge.sh/",
   },
 ];
 
