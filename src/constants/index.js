@@ -23,7 +23,8 @@ import {
   ai,
   dat,
   docker,
-  py
+  py,
+  block
 } from "../assets";
 
 export const navLinks = [
@@ -310,6 +311,33 @@ const projects = [
     image: dat,
     source_code_link: "https://github.com/ThomasHeim11/BlockShop",
     demo_link: "https://blockshop.surge.sh/",
+  },
+
+  {
+    name: "PyBlock ",
+    description:
+      "A Python-built Blockchain from scratch, exploring transaction and block validation, mining, hashing, and more, with a Dockerized local environment for easy experimentation. Credit to Shiva Shanmuganathan.",
+    tags: [
+      {
+        name: "python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "blochain",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "proof-of-work",
+        color: "green-text-gradient",
+      },
+      // {
+      //   name: "react",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    image: block,
+    source_code_link: "https://github.com/ThomasHeim11/PyBlock",
+    demo_link: "https://github.com/ThomasHeim11/PyBlock",
   },
 ];
 

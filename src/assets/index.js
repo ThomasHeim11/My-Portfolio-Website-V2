@@ -42,6 +42,7 @@ import web3 from "./web3.avif";
 import ai from "./ai-nft.png"
 import dat from "./dat.png"
 import py from "./py.png"
+import block from "./block.png"
 
 export {
   logo,
@@ -83,5 +84,6 @@ export {
   web3,
   ai,
   dat,
-  py
+  py,
+  block
 };
