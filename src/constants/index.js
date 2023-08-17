@@ -21,7 +21,9 @@ import {
   uio,
   web3,
   ai,
-  dat
+  dat,
+  docker,
+  py
 } from "../assets";
 
 export const navLinks = [
@@ -59,6 +61,19 @@ const technologies = [
     name: "Solidity",
     icon: solidity,
   },
+
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "py",
+    icon: py,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
   {
     name: "Hardhat",
     icon: hardhat,
@@ -71,10 +86,6 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
 
   {
     name: "React JS",
@@ -85,14 +96,14 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
 
   {
     name: "git",
     icon: git,
+  },
+  {
+    name: "docker",
+    icon: docker,
   },
 ];
 
@@ -209,10 +220,10 @@ const projects = [
         name: "OpenZeppelin",
         color: "green-text-gradient",
       },
-      // {
-      //   name: "react",
-      //   color: "pink-text-gradient",
-      // },
+      {
+        name: "stablecoin",
+        color: "pink-text-gradient",
+      },
     ],
     image: tes,
     source_code_link: "https://github.com/ThomasHeim11/StableCryptoDollar",

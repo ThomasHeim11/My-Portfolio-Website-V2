@@ -26,6 +26,7 @@ import chatgtp from "./tech/chatgtp.png";
 import chain from "./chain.png";
 import tes from "./tes.jpeg";
 
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -40,6 +41,7 @@ import leonardo from "./leonardo .png";
 import web3 from "./web3.avif";
 import ai from "./ai-nft.png"
 import dat from "./dat.png"
+import py from "./py.png"
 
 export {
   logo,
@@ -80,5 +82,6 @@ export {
   uio,
   web3,
   ai,
-  dat
+  dat,
+  py
 };
